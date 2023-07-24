@@ -16,7 +16,7 @@ This is a comprehensive guide on how to set up, run, and understand the E-commer
 5. [Usage](#usage)
 6. [Folder Structure](#folder-structure)
 7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ## Introduction
 
